@@ -4,7 +4,7 @@ This research aims to analyze various factors that influence the pricing of Airb
 Team Members:
 Colleen Jung,
 Saphir Qi,
-Kevin Ko,https://github.com/kevinkooo
+[Kevin Ko](https://github.com/kevinkooo),
 Khushi Ranganatha
 
 ## Business Case and Objectives
