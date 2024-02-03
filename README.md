@@ -2,9 +2,9 @@
 This research aims to analyze various factors that influence the pricing of Airbnb listings in Chicago, taking into consideration aspects such as demand fluctuations, property types, locality ratings, host statuses, and user reviews. The study will also incorporate Chicago's crime data to determine if there's a correlation between local crime rates and listing prices. 
 
 Team Members: (Affiliated through The University of Chicago)
-- Colleen Jung,
-- Saphir Qi,
-- [Kevin Ko](https://github.com/kevinkooo),
+- Colleen Jung
+- Saphir Qi
+- [Kevin Ko](https://github.com/kevinkooo)
 - Khushi Ranganatha
 
 ## Business Case and Objectives
