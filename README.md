@@ -24,3 +24,6 @@ We utilized public data from the City of Chicago and Airbnb, namely crime data a
 Data Models
 EER Diagram
 
+<img width="795" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/dce5fae5-fa16-4a30-8bb5-2bb795578724">
+
+
