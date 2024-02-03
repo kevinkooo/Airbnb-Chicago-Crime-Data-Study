@@ -42,12 +42,12 @@ a.	Data Modeling: SQL helped in structuring and normalizing our data models. We 
 ### 2.
 Neighborhoods with higher crime rates tend to feature listings with lower prices, while those with lower crime rates exhibit higher-priced listings. This trend is hypothesized to be a reflection of people's preference for safer neighborhoods, potentially influenced by associated benefits such as reduced out-of-pocket medical costs.
 
-<img width="790" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/54e9aed4-d774-4dfa-b148-7f108fb016af">
+<img width="900" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/54e9aed4-d774-4dfa-b148-7f108fb016af">
 
 ### 3.
 Utilizing Tableau's advanced mapping and data visualization, we overlaid Airbnb listing prices with local crime scores in Chicago, revealing a comprehensive geographical insight into the correlation between crime rates and Airbnb pricing.
 
-<img width="600" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/c70253a9-84b7-4262-8817-767cadb7db14">
+<img width="900" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/c70253a9-84b7-4262-8817-767cadb7db14">
 
 ## Reccomendations
 1.	**Airbnb Hosts:**
