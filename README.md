@@ -47,7 +47,7 @@ Neighborhoods with higher crime rates tend to feature listings with lower prices
 ### 3.
 Utilizing Tableau's advanced mapping and data visualization, we overlaid Airbnb listing prices with local crime scores in Chicago, revealing a comprehensive geographical insight into the correlation between crime rates and Airbnb pricing.
 
-<img width="384" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/c70253a9-84b7-4262-8817-767cadb7db14">
+<img width="500" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/c70253a9-84b7-4262-8817-767cadb7db14">
 
 ## Reccomendations
 1.	**Airbnb Hosts:**
