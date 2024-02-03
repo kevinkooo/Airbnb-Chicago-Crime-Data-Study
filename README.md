@@ -33,18 +33,18 @@ EER Diagram
 
 ## Insights
 1.
-<img width="290" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/4c682323-c256-4e8c-9c97-2de3b66d5e46">
 **Property Type Preference:** The majority of listing supply are entire homes/apartments, driven by the higher demand for privacy and space.
 **Average Price by Property Type:** Entire homes/apartments have the highest average price, followed by hotel rooms and then private rooms, suggesting that space and exclusivity come at a premium.
 **Distribution of Prices:** There's a wide range of prices within each property type, especially with entire homes/apartments, as indicated by the significant outliers.
+<img width="290" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/4c682323-c256-4e8c-9c97-2de3b66d5e46">
 
 2.
-<img width="790" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/54e9aed4-d774-4dfa-b148-7f108fb016af">
 Neighborhoods with higher crime rates tend to feature listings with lower prices, while those with lower crime rates exhibit higher-priced listings. This trend is hypothesized to be a reflection of people's preference for safer neighborhoods, potentially influenced by associated benefits such as reduced out-of-pocket medical costs.
+<img width="790" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/54e9aed4-d774-4dfa-b148-7f108fb016af">
 
 3.
-<img width="384" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/c70253a9-84b7-4262-8817-767cadb7db14">
 Utilizing Tableau's advanced mapping and data visualization, we overlaid Airbnb listing prices with local crime scores in Chicago, revealing a comprehensive geographical insight into the correlation between crime rates and Airbnb pricing.
+<img width="384" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/c70253a9-84b7-4262-8817-767cadb7db14">
 
 ## Reccomendations
 1.	**Airbnb Hosts:**
