@@ -34,7 +34,9 @@ a.	Data Modeling: SQL helped in structuring and normalizing our data models. We 
 ## Insights
 ### 1.
 **Property Type Preference:** The majority of listing supply are entire homes/apartments, driven by the higher demand for privacy and space.
+
 **Average Price by Property Type:** Entire homes/apartments have the highest average price, followed by hotel rooms and then private rooms, suggesting that space and exclusivity come at a premium.
+
 **Distribution of Prices:** There's a wide range of prices within each property type, especially with entire homes/apartments, as indicated by the significant outliers.
 
 <img width="700" alt="image" src="https://github.com/kevinkooo/Airbnb-Chicago-Crime-Data-Study/assets/156154849/4c682323-c256-4e8c-9c97-2de3b66d5e46">
